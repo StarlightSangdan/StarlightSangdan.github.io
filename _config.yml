@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "별빛상단 단주"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
-  email:
+  bio: "프로그래밍 학습 기록지"
+  location: "서울, 대한민국"
+  email: danju@starlight-sangdan.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
